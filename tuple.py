@@ -1,0 +1,5 @@
+a =(4,5,5)
+b = a.count(56 )
+c = a.index(5)
+d = a.append(7)
+print(b,c)
