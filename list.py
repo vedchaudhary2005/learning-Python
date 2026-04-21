@@ -1,5 +1,5 @@
 # marks = [1,5,78,56,4,7]
-# # marks.sort()
+# marks.sort()
 # # marks.append(454
 # marks.sort()47)
 # # marks.reverse()
