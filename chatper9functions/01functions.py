@@ -14,3 +14,8 @@ def avg():
     print(average)
 
 avg()
+avg()
+avg()
+avg()
+avg()
+
