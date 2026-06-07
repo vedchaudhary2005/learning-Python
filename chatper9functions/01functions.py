@@ -1,6 +1,16 @@
-a = 12
-b = 45
-c = 44
+# a = int(input("Enter the Number: "))
+# b = int(input("Enter the Number: "))
+# c = int(input("Enter the Number: "))
 
-average = (a+b+c)/3
-print(average)
+# average = (a+b+c)/3
+# print(average )
+
+def avg():
+    a = int(input("Enter the Number: "))
+    b = int(input("Enter the Number: "))
+    c = int(input("Enter the Number: "))
+
+    average = (a+b+c)/3
+    print(average)
+
+avg()
