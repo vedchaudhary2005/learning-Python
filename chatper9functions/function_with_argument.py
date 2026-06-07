@@ -1,6 +1,7 @@
-def goodDay(name, ending):
-    print("Good day" + name)
+def  gooday(name, ending):
+    print("good day" + name)
     print(ending)
+    return 78 
 
-
-goodDay(" Ved",  "Thank you")   
+a = gooday(" Ved", "Thank you")
+print(a)
