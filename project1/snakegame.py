@@ -5,4 +5,4 @@ you = youDict(youstr)
 
 if(computer == 1 and you == 2):
     print("You win")
-elif(         )
+ 
