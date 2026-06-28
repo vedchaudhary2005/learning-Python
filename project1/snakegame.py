@@ -1,4 +1,4 @@
-computer = 1
+computer = 1,2,3
 youstr =  input("enter the choice: ")
 youDict = {"s":1, "w":2 , "g":3}
 you = youDict(youstr)
@@ -13,4 +13,4 @@ elif(computer == 1 and you==1):
 elif(computer == 2 and you==2):
     print("Game Draw") 
 elif(computer == 3 and you==3):
-    print("Game Draw") 
+    print("Game Draw")    
